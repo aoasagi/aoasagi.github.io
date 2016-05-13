@@ -52,7 +52,8 @@ a {
 	background-color:#fff;
 }
 .post h1,
-.post h2 {
+.post h2,
+.post h3 {
 	margin-bottom:0.2rem;
 	font-family: 'ltg';
 	letter-spacing:0em;
@@ -205,6 +206,13 @@ a {
     font-size:0.6rem;
     line-height:1;
 }
+
+/* amazon */
+.amazlet-box {
+    background:#e5e5e5;
+    padding:0.5rem;
+}
+
 
 /* 991px以下 tabletとsmartphone*/
 @media (max-width: 991px) {
