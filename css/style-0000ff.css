@@ -87,9 +87,10 @@ a {
     list-style:none;
     display:inline-block;
     margin:0 0.8em 0.3em 0;
-    padding:2px 0.5em;
+    padding:0.1em 0.5em;
     background-color:#ececec;
     border-radius: 5px;
+    line-height:0;
 }
 .pagination {
     font-size:0.8rem;
