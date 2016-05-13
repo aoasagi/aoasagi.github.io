@@ -243,12 +243,12 @@ a {
     line-height:1.3;
     font-size:0.8em;
 }
-.amazlet-sub-info .amazlet-name,
-.amazlet-sub-info .amazlet-detail,
-.amazlet-sub-info .amazlet-sub-info {
+.amazlet-info div {
     padding:0 0 0 0.8em;
 }
-
+.amazlet-sub-info {
+    margin:0.8em 0 0;
+}
 .amazlet-powered-date {
     text-align:right;
     margin:0.3em 0;
