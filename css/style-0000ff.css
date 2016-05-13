@@ -173,6 +173,7 @@ a {
     height:auto;
     margin:0;
 }
+.typeL .body-text .amazlet-box,
 .typeL .body-text p,
 .typeL .body-text .read_more_container,
 .typeL .body-text h2,
@@ -182,10 +183,7 @@ a {
     font-size:0;
     line-height:0;
 }
-.typeL .body-text div {
-    margin:0;
-    float:none;
-}
+
 .typeL .postSummary {
 	-webkit-flex: 1;
 	flex: 1;
