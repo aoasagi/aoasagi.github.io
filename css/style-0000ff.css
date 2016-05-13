@@ -270,7 +270,6 @@ a {
 #moreRead dt{
     display:block;
     cursor:pointer;
-    color:{AccentColor}
     }
 #moreRead dd{
     display:none;
