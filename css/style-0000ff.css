@@ -90,7 +90,7 @@ a {
     padding:0.1em 0.5em;
     background-color:#ececec;
     border-radius: 5px;
-    line-height:0;
+    line-height:1;
 }
 .pagination {
     font-size:0.8rem;
