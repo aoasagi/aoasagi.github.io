@@ -269,7 +269,7 @@ a {
         padding:0 0 0 1em;
     }
     .amazlet-image {
-        width:70%;
+        width:300px;
     }
     .amazlet-sub-info {
         flex:1;
@@ -286,6 +286,9 @@ a {
 	.footer {
 		width: 750px;
 	}
+    .amazlet-image {
+        width:400px;
+    }
 }
 
 /* 992px以上 desctop */
