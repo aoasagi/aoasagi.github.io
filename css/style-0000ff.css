@@ -6,6 +6,20 @@ body {
     font-family:Avenir , "Open Sans" , "Helvetica Neue" , Helvetica , Arial , Verdana , Roboto , "游ゴシック" , "Yu Gothic" , "游ゴシック体" , "YuGothic" , "ヒラギノ角ゴ Pro W3" , "Hiragino Kaku Gothic Pro" , "Meiryo UI" , "メイリオ" , Meiryo , "ＭＳ Ｐゴシック" , "MS PGothic" , sans-serif;
     font-size:12px;
 }
+
+/* 768px以上 tablet */
+@media (min-width: 768px) {
+    body {
+        font-size:14px;
+    }
+}
+/* 992px以上 desctop */
+@media (min-width: 992px) {
+    body {
+        font-size:16px;
+    }
+}
+
     
 @font-face {
   font-family: 'ltg';
@@ -221,6 +235,7 @@ a {
 }
 .amazlet-image {
     margin:0 1em 0 0;
+    line-height:0;
 }
 
 
@@ -240,9 +255,6 @@ a {
 
 /* 768px以上 tablet */
 @media (min-width: 768px) {
-	body {
-		font-size:14px;
-	}
 	.header,
 	.content,
 	.footer {
@@ -252,9 +264,6 @@ a {
 
 /* 992px以上 desctop */
 @media (min-width: 992px) {
-	body {
-		font-size:16px;
-	}
 	.header,
 	.content,
 	.footer {
