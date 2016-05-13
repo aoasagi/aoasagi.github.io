@@ -266,6 +266,18 @@ a {
     margin:0.3em 0;
 }
 
+/* 続きを読む */
+#moreRead dt{
+    display:block;
+    cursor:pointer;
+    color:{AccentColor}
+    }
+#moreRead dd{
+    display:none;
+    padding:0;
+    margin:0;
+    }
+
 
 
 
