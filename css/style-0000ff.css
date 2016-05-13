@@ -267,11 +267,13 @@ a {
         padding:0 0 0 1em;
     }
     .amazlet-image {
-        width:30%;
+        -webkit-flex:30%;
+        flex:30%;
     }
     .amazlet-sub-info {
-        width:70%;
-    }
+        -webkit-flex:70%;
+        flex:70%;
+     }
     .amazlet-image img {
         width:100%;
     }
