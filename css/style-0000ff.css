@@ -87,6 +87,9 @@ a {
     list-style:none;
     display:inline-block;
     margin:0 0.8em 0 0;
+    padding:0.1em 0.5em;
+    background-color:#ececec;
+    border-radius: 5px;
 }
 .pagination {
     font-size:0.8rem;
@@ -208,7 +211,7 @@ a {
 
 /* amazon */
 .amazlet-box {
-    background:#e5e5e5;
+    background:#ececec;
     padding:0.5rem;
     margin:0.5rem;
     font-size:0.8rem;
