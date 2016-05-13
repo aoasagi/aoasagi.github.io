@@ -87,7 +87,7 @@ a {
     list-style:none;
     display:inline-block;
     margin:0 0.8em 0.3em 0;
-    padding:0.1em 0.5em;
+    padding:0.2em 0.5em;
     background-color:#ececec;
     border-radius: 5px;
     line-height:1;
@@ -172,7 +172,7 @@ a {
     background-size:cover;
 }
 .typeL .tmblr-full,
-.typeL img {
+.typeL .body-text img {
     width:100%;
     height:auto;
     margin:0;
