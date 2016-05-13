@@ -266,6 +266,12 @@ a {
     .blogSummary .avatar + div {
         padding:0 0 0 1em;
     }
+    .amazlet-image {
+        max-width:30%;
+    }
+    .amazlet-image img {
+        width:100%;
+    }
 }
 
 /* 768px以上 tablet */
