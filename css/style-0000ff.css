@@ -237,6 +237,9 @@ a {
     font-size:0;
     width:30%;
 }
+.amazlet-image img {
+    width:100%;
+}
 .amazlet-image a {
     display:block;
 }
