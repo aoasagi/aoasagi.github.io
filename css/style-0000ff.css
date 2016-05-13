@@ -248,8 +248,8 @@ a {
     text-align:right;
     margin:0.3em 0;
 }
-.amazlet-sub-info {
-    margin:0.8em 0 0;
+.amazlet-sub-info div {
+    padding:0 0 0 0.8em;
 }
 
 
@@ -267,7 +267,10 @@ a {
         padding:0 0 0 1em;
     }
     .amazlet-image {
-        max-width:30%;
+        width:30%;
+    }
+    .amazlet-sub-info {
+        width:70%;
     }
     .amazlet-image img {
         width:100%;
