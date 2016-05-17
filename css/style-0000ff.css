@@ -207,7 +207,8 @@ a {
 .typeL .body-text .read_more_container,
 .typeL .body-text h2,
 .typeL .body-text h3,
-.typeL .body-text dl {
+.typeL .body-text dl,
+.typeL .body-text blockquote {
     display:none;
     font-size:0;
     line-height:0;
