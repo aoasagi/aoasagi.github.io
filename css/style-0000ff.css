@@ -140,6 +140,9 @@ a {
 .sub dd {
     font-size:0.8rem;
 }
+.sub ul {
+    padding:0 0 0 1em;
+}
 .sub dd {
 	margin:0;
 }
