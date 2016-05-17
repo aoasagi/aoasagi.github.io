@@ -151,6 +151,7 @@ a {
     max-width:100%;
     height:auto;
 }
+
 .footer {
     text-align:center;
     color:#ccc;
@@ -327,3 +328,8 @@ a {
 		margin:0;
 	}  
 }
+
+
+/* module */
+.alignC {text-align:center;}
+.alignR {text-align:right;}
