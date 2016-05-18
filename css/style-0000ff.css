@@ -321,6 +321,9 @@ a {
     .blogSummary .avatar + div {
         padding:0 0 0 1em;
     }
+    .notecontainer ol li .action {
+        font-size:0.5rem;
+    }
 }
 
 /* 768px以上 tablet */
