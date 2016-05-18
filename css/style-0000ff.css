@@ -57,7 +57,8 @@ a {
 }
 
 .post,
-#disqus_thread {
+#disqus_thread,
+.notecontainer {
 	-webkit-border-radius:10px;
 	-moz-border-radius:10px;
 	border-radius:10px;
@@ -326,7 +327,8 @@ a {
 		width:640px;
 	}
 	.contentBody .post,
-    #disqus_thread {
+    #disqus_thread,
+    .notecontainer {
 		margin:0 0 0.8rem;
 	}
 	.sub {
