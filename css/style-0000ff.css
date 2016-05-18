@@ -281,6 +281,9 @@ a {
     }
 
 /* リアクション */
+.notecontainer {
+    padding:0.8rem 1.5em;
+}
 .notecontainer ol {
     padding:0;
     margin:0 0 0.8rem;
@@ -303,7 +306,7 @@ a {
     display: flex;
 }
 .notecount-header {
-    margin:0.8rem 0 0;
+    margin:0;
     -webkit-align-items: flex-start; /* Safari */
     align-items: flex-start;
 }
