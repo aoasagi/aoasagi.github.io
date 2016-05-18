@@ -280,7 +280,7 @@ a {
 /* リアクション */
 .notecontainer ol {
     padding:0;
-    margin:0 0.8rem;
+    margin:0.8rem 0;
 }
 .notecontainer ol li {
     font-size:0.8rem;
@@ -290,8 +290,8 @@ a {
 .notecount-header .buttons {
     display: -webkit-flex; /* Safari */
     display: flex;
-    -webkit-align-items: center; /* Safari */
-    align-items: center;
+    -webkit-align-items: baseline; /* Safari */
+    align-items: baseline;
 }
 .notecount-header .buttons > div {
     margin:0 0.5rem 0 0;
