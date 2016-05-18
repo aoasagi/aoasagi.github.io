@@ -176,6 +176,19 @@ a {
     max-width:100%;
 }
 
+    .charaFace {
+   }
+    .charaFace figure {
+        border-radius:50%;
+        overflow:hidden;
+        width:30%;
+        height:auto;
+        margin:0 auto;
+        display:block;
+    }
+    .charaFace p {text-align:center;margin:0.5em 0 0;}
+ 
+
 /* 一覧ページ */
 .typeL .post {
     display: -webkit-flex; /* Safari */
