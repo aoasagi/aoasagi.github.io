@@ -288,6 +288,7 @@ a {
 .notecontainer ol li {
     font-size:0.8rem;
     list-style:none;
+    line-height:1;
 }
 .notecount-header,
 .notecount-header .buttons {
