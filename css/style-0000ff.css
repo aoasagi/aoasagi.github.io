@@ -295,9 +295,9 @@ a {
     display: flex;
 }
 .notecount-header {
-    margin:0.8rem 0;
-    -webkit-align-items: center; /* Safari */
-    align-items: center;
+    margin:0.8rem 0 0;
+    -webkit-align-items: flex-start; /* Safari */
+    align-items: flex-start;
 }
 .notecount-header .buttons > div {
     margin:0 0.5rem 0 0;
