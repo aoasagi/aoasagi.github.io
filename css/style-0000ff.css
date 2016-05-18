@@ -284,6 +284,14 @@ a {
     margin:0;
     }
 
+/* リアクション */
+.notecontainer ol {
+    padding:0;
+}
+.notecontainer ol li {
+    font-size:0.8rem;
+    list-style:none;
+}
 
 
 
