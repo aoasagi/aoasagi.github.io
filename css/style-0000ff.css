@@ -102,11 +102,14 @@ a {
 .tags li {
     list-style:none;
     display:inline-block;
-    margin:0 0.8em 0.3em 0;
-    padding:0.2em 0.5em;
+    margin:0 0.8em 0.5em 0;
+    padding:0.3em 0.5em;
     background-color:#ececec;
     border-radius: 5px;
     line-height:1;
+}
+.tags li a {
+    display:block;
 }
 .pagination {
     font-size:0.8rem;
@@ -290,11 +293,11 @@ a {
 .notecount-header .buttons {
     display: -webkit-flex; /* Safari */
     display: flex;
-    -webkit-align-items: center; /* Safari */
-    align-items: center;
 }
 .notecount-header {
     margin:0.8rem 0;
+    -webkit-align-items: center; /* Safari */
+    align-items: center;
 }
 .notecount-header .buttons > div {
     margin:0 0.5rem 0 0;
