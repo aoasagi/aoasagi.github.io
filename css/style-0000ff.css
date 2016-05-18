@@ -293,12 +293,15 @@ a {
     -webkit-align-items: baseline; /* Safari */
     align-items: baseline;
 }
+.notecount-header {
+    margin:0.8rem 0;
+}
 .notecount-header .buttons > div {
     margin:0 0.5rem 0 0;
 }
 .notecount-header h2 {
     font-size:1rem;
-    margin:0.8rem 0;
+    margin:0 1em 0 0;
 }
 
 
