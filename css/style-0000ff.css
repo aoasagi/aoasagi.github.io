@@ -296,14 +296,14 @@ a {
 }
 .notecount-header {
     margin:0.8rem 0 0;
-    -webkit-align-items: center; /* Safari */
-    align-items: center;
+    -webkit-align-items: flex-start; /* Safari */
+    align-items: flex-start;
 }
 .notecount-header .buttons > div {
     margin:0 0.5rem 0 0;
 }
 .notecount-header h2 {
-    font-size:1rem;
+    font-size:1.1rem;
     margin:0 1em 0 0;
 }
 
