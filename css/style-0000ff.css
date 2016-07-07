@@ -401,7 +401,8 @@ margin:0.8rem 0;
 .basicTable th{
 padding: 0.3em 0.5em;
 text-align: left;
-vertical-align: top;
+vertical-align:middle;
+line-height:1.3;
 color: #333;
 background-color: #eee;
 border: 1px solid #b9b9b9;
