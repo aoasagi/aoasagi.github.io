@@ -397,18 +397,18 @@ border-collapse: collapse;
 margin:0.8rem 0;
 }
 .basicTable th{
-padding: 6px;
+padding: 0.3em 1em;
 text-align: left;
 vertical-align: top;
 color: #333;
 background-color: #eee;
 border: 1px solid #b9b9b9;
-font-size:1rem;
+font-size:0.8em;
 font-weight:normal;
 }
 .basicTable td{
-padding: 6px;
+padding: 0.3em 1em;
 background-color: #fff;
 border: 1px solid #b9b9b9;
-font-size:1rem;
+font-size:0.8em;
 }
