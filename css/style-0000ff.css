@@ -394,6 +394,7 @@ a {
 .basicTable {
 width: 100%;
 border-collapse: collapse;
+margin:0.8rem 0;
 }
 .basicTable th{
 padding: 6px;
@@ -402,9 +403,12 @@ vertical-align: top;
 color: #333;
 background-color: #eee;
 border: 1px solid #b9b9b9;
+font-size:1rem;
+font-weight:normal;
 }
 .basicTable td{
 padding: 6px;
 background-color: #fff;
 border: 1px solid #b9b9b9;
+font-size:1rem;
 }
