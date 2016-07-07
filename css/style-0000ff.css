@@ -391,13 +391,15 @@ a {
 .alignC {text-align:center;}
 .alignR {text-align:right;}
 
+.em {color:#ee0f29;}
+
 .basicTable {
 width: 100%;
 border-collapse: collapse;
 margin:0.8rem 0;
 }
 .basicTable th{
-padding: 0.3em 1em;
+padding: 0.3em 0.5em;
 text-align: left;
 vertical-align: top;
 color: #333;
@@ -407,7 +409,7 @@ font-size:0.8em;
 font-weight:normal;
 }
 .basicTable td{
-padding: 0.3em 1em;
+padding: 0.3em 0.5em;
 background-color: #fff;
 border: 1px solid #b9b9b9;
 font-size:0.8em;
