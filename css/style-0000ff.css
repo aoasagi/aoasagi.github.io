@@ -69,7 +69,8 @@ a {
 }
 .contentBody h1,
 .contentBody h2,
-.contentBody h3 {
+.contentBody h3,
+.contentBody h4 {
 	margin-bottom:0.2rem;
 	font-family: 'ltg';
 	letter-spacing:0em;
@@ -218,6 +219,7 @@ a {
 .typeL .body-text .read_more_container,
 .typeL .body-text h2,
 .typeL .body-text h3,
+.typeL .body-text h4,
 .typeL .body-text dl,
 .typeL .body-text blockquote {
     display:none;
